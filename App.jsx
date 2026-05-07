@@ -14,8 +14,8 @@ const STORES = [
 ];
 
 const ROLES = [
-  {id:"kitchen", label:"요리사",    sub:"CHEF",         desc:"메뉴·조리·품질·위생\n주방 운영 관리", e:"👨‍🍳"},
-  {id:"hall",    label:"홀담당자", sub:"HALL MANAGER", desc:"홀 서비스·응대·위생\n직원 관리",      e:"🧑‍💼"},
+  {id:"kitchen", label:"요리사",    sub:"CHEF",         desc:"메뉴·조리·품질·위생\n영수증 순차로만 음식을 만듭니다", e:"👨‍🍳"},
+  {id:"hall",    label:"홀담당자", sub:"HALL MANAGER", desc:"홀 서비스·응대·위생\n주방이 혼동되지 않도록 말로 전달하지 않습니다",      e:"🧑‍💼"},
 ];
 
 const CATS = [
