@@ -7,10 +7,10 @@ const G = {
 };
 
 const STORES = [
-  {id:"susan",  label:"횟집",  name:"최우영수산",  e:"🐟", g:"linear-gradient(150deg,#071c2e,#0d3a60)"},
-  {id:"sushiya",label:"초밥",  name:"최우영스시야", e:"🍣", g:"linear-gradient(150deg,#1e1200,#3d2800)"},
-  {id:"sushi",  label:"초밥",  name:"최우영스시",   e:"🍱", g:"linear-gradient(150deg,#0d1a2e,#1a3a5a)"},
-  {id:"gogiya", label:"고기",  name:"최우영고기야", e:"🥩", g:"linear-gradient(150deg,#1a0800,#3d1400)"},
+  {id:"susan",  label:"고기",  name:"1다이",  e:"🐟", g:"linear-gradient(150deg,#071c2e,#0d3a60)"},
+  {id:"sushiya",label:"시코미",  name:"2다이", e:"🍣", g:"linear-gradient(150deg,#1e1200,#3d2800)"},
+  {id:"sushi",  label:"설거지",  name:"3다이",   e:"🍱", g:"linear-gradient(150deg,#0d1a2e,#1a3a5a)"},
+  {id:"gogiya", label:"시코미",  name:"4다이", e:"🥩", g:"linear-gradient(150deg,#1a0800,#3d1400)"},
 ];
 
 const ROLES = [
